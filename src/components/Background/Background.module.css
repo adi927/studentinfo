@@ -1,0 +1,7 @@
+.wrapper {
+  border-radius: 30px;
+  background: #507dbc;
+  backdrop-filter: blur(2px);
+  width: 1333px;
+  height: 753px;
+}
